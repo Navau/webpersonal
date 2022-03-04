@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const app = require("./app");
-const PORT_SERVER = process.env.PORT || 3977;
+const PORT_SERVER = process.env.PORT || 8080; //3977
 
 const { API_VERSION, IP_SERVER, PORT_DB } = require("./config");
 
