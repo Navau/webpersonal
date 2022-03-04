@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js"
+    "run-script start": "node index.js"
   },
   "author": "Jose Manuel Gutierrez Navarro",
   "license": "ISC",
